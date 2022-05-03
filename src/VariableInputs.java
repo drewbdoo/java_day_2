@@ -15,8 +15,8 @@ public class VariableInputs {
         Boolean boo = scanner.nextBoolean();
 
         System.out.println("Your string is " + text);
-        System.out.println("You integer is " + num);
-        System.out.println("You double is " + dub);
+        System.out.println("Your integer is " + num);
+        System.out.println("Your double is " + dub);
         System.out.println("Your boolean is " + boo);
 
        
